@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "avatar": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "id": 1,
+      "name": "Sergio de Paula",
+      "stars": 4.8,
+      "week_days": "Segunda à Sábado",
+      "office_hour": "8h às 18h",
+      "region": "São Paulo, SP"
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "id": 2,
+      "name": "Aline Fernandez",
+      "stars": 3.5,
+      "week_days": "Segunda à Sábado",
+      "office_hour": "8h às 20h",
+      "region": "São Paulo, SP"
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "id": 3,
+      "name": "Jonas Kakaroto",
+      "stars": 3.6,
+      "week_days": "Segunda à Sexta",
+      "office_hour": "8h às 18h",
+      "region": "São Paulo, SP"
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=644&q=80",
+      "id": 4,
+      "name": "Craig McKay",
+      "stars": 4.7,
+      "week_days": "Segunda à Sábado",
+      "office_hour": "7h às 17h",
+      "region": "São Paulo, SP"
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1504593811423-6dd665756598?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "id": 5,
+      "name": "Mubariz Mehdizadeh",
+      "stars": 2.6,
+      "week_days": "Segunda à Sexta",
+      "office_hour": "8h às 19h",
+      "region": "São Paulo, SP"
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1555952517-2e8e729e0b44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      "id": 6,
+      "name": "Daniel Lincoln",
+      "stars": 4.9,
+      "week_days": "Segunda à Sexta",
+      "office_hour": "9h às 19h",
+      "region": "São Paulo, SP"
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1569124589354-615739ae007b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "id": 7,
+      "name": "Letícia ilienerwise",
+      "stars": 4.1,
+      "week_days": "Segunda à Sexta",
+      "office_hour": "9h às 18h",
+      "region": "São Paulo, SP"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Infantil",
+      "price": "20,90"
+    },
+    {
+      "id": 2,
+      "name": "Masculino",
+      "price": "29,90"
+    },
+    {
+      "id": 3,
+      "name": "Feminimo",
+      "price": "29,90"
+    },
+    {
+      "id": 4,
+      "name": "Cabelo e Barba",
+      "price": "49,90"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "stars": 3.3,
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 2,
+      "name": "John Tree",
+      "stars": 4.8,
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ]
+}
